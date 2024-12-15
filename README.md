@@ -1,4 +1,4 @@
-# 🕵️ Advanced SMB Vulnerability Scanner
+# 🕵️ Advanced SMB Vulnerability Scanner with C2 Server
 
 ## Overview
 
